@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular 17, ASP.NET Core, and Advanced JavaScript**
 
-- 💬 Ask me about **React, Angular, ASP.NET Core, and Tailwind Css**
+- 💬 Ask me about **React, Angular, ASP.NET Core, and Tailwind CSS**
 
 - 📫 How to reach me **aakashranjan0702@gmail.com**
 
