@@ -60,22 +60,6 @@
   <img src="https://skillicons.dev/icons?i=neovim,bash,zsh" />
 </p>
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashranjan07&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashranjan07&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashranjan07&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" />
-</p>
-
----
 
 ### 🚀 Current Focus  
 - 📌 Learning **Go + Generative AI**  
