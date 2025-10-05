@@ -13,7 +13,9 @@
 - 🚀 Exploring **Supabase, Neon PostgreSQL, Redis, Cloudflare, Vercel & shadcn**  
 - 💬 Ask me about **Full Stack Development, REST APIs, and Scalable Architectures**  
 - 📫 Reach me at: **aakashranjan0702@gmail.com**  
-- ⚡ Fun fact: *I love blending creativity with clean code!*  
+- ⚡ Fun fact: *I love blending creativity with clean code!*
+
+   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ---
 
@@ -29,7 +31,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" />
   </a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 
 ---
 
