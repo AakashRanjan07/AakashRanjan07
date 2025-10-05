@@ -6,14 +6,17 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashranjan07&label=Profile%20views&color=0e75b6&style=flat" alt="aakashranjan07" /> </p>
 
 ---
 
 ### 💡 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 - 🌱 Currently learning **Go, GenAI, System Design (LLD + HLD), and DSA**  
-- 🛠 Skilled in **React, Next.js, Tailwind CSS, Node.js & Express**  
-- 🔭 Exploring **Supabase, Neon PostgreSQL, Redis, Cloudflare, Vercel & shadcn**  
+- 🛠 Skilled in **React, Next.js, Angular, ASP.NET Core, Tailwind CSS, Node.js & Express**  
+- 🚀 Exploring **Supabase, Neon PostgreSQL, Redis, Cloudflare, Vercel & shadcn**  
 - 💬 Ask me about **Full Stack Development, REST APIs, and Scalable Architectures**  
 - 📫 Reach me at: **aakashranjan0702@gmail.com**  
 - ⚡ Fun fact: *I love blending creativity with clean code!*  
@@ -22,11 +25,15 @@
 
 ### 🌍 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/aakash-ranjan-319b83224" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://leetcode.com/aakashranjan07" target="_blank">
-  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" height="40" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/aakashranjan0702" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40" /></a>
+  <a href="https://linkedin.com/in/aakash-ranjan-319b83224" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://leetcode.com/aakashranjan07" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" height="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/aakashranjan0702" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" />
+  </a>
 </p>
 
 ---
