@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm Aakash Ranjan</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer | Crafting Seamless Digital Experiences</h3>
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashranjan07&label=Profile%20views&color=0e75b6&style=flat" alt="aakashranjan07" /> </p>
-
 ---
 
 ### 💡 About Me
@@ -34,6 +29,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" />
   </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashranjan07&label=Profile%20views&color=0e75b6&style=flat" alt="aakashranjan07" /> </p>
 
 ---
 
