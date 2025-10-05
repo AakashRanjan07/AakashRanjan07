@@ -15,8 +15,6 @@
 - 📫 Reach me at: **aakashranjan0702@gmail.com**  
 - ⚡ Fun fact: *I love blending creativity with clean code!*
 
-   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ---
 
 ### 🌍 Connect with Me  
